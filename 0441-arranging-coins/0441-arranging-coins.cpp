@@ -9,5 +9,3 @@ public:
         return check-1;
     }
 };
-
-// change to binary later
